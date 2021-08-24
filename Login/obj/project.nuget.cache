@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "14qxntblMtX6zD2Verso95vuLNi+pRrarJ7U4W9HZX/JhB6xpE/zES0w0CYFZeBMIaINMXfqvqNwvu6i/IDj9g==",
+  "success": true,
+  "projectFilePath": "N:\\k\\Real Intern\\Belajar\\1. .NET\\4FundamentalCSharpAgain\\Login\\Login\\Login.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Naufal\\.nuget\\packages\\bcrypt.net-core\\1.6.0\\bcrypt.net-core.1.6.0.nupkg.sha512"
+  ],
+  "logs": []
+}

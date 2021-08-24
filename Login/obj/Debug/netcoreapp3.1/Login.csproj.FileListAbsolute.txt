@@ -1,0 +1,16 @@
+N:\k\Real Intern\Belajar\1. .NET\4FundamentalCSharpAgain\Login\Login\bin\Debug\netcoreapp3.1\Login.exe
+N:\k\Real Intern\Belajar\1. .NET\4FundamentalCSharpAgain\Login\Login\bin\Debug\netcoreapp3.1\Login.deps.json
+N:\k\Real Intern\Belajar\1. .NET\4FundamentalCSharpAgain\Login\Login\bin\Debug\netcoreapp3.1\Login.runtimeconfig.json
+N:\k\Real Intern\Belajar\1. .NET\4FundamentalCSharpAgain\Login\Login\bin\Debug\netcoreapp3.1\Login.runtimeconfig.dev.json
+N:\k\Real Intern\Belajar\1. .NET\4FundamentalCSharpAgain\Login\Login\bin\Debug\netcoreapp3.1\Login.dll
+N:\k\Real Intern\Belajar\1. .NET\4FundamentalCSharpAgain\Login\Login\bin\Debug\netcoreapp3.1\Login.pdb
+N:\k\Real Intern\Belajar\1. .NET\4FundamentalCSharpAgain\Login\Login\obj\Debug\netcoreapp3.1\Login.csproj.AssemblyReference.cache
+N:\k\Real Intern\Belajar\1. .NET\4FundamentalCSharpAgain\Login\Login\obj\Debug\netcoreapp3.1\Login.GeneratedMSBuildEditorConfig.editorconfig
+N:\k\Real Intern\Belajar\1. .NET\4FundamentalCSharpAgain\Login\Login\obj\Debug\netcoreapp3.1\Login.AssemblyInfoInputs.cache
+N:\k\Real Intern\Belajar\1. .NET\4FundamentalCSharpAgain\Login\Login\obj\Debug\netcoreapp3.1\Login.AssemblyInfo.cs
+N:\k\Real Intern\Belajar\1. .NET\4FundamentalCSharpAgain\Login\Login\obj\Debug\netcoreapp3.1\Login.csproj.CoreCompileInputs.cache
+N:\k\Real Intern\Belajar\1. .NET\4FundamentalCSharpAgain\Login\Login\obj\Debug\netcoreapp3.1\Login.dll
+N:\k\Real Intern\Belajar\1. .NET\4FundamentalCSharpAgain\Login\Login\obj\Debug\netcoreapp3.1\Login.pdb
+N:\k\Real Intern\Belajar\1. .NET\4FundamentalCSharpAgain\Login\Login\obj\Debug\netcoreapp3.1\Login.genruntimeconfig.cache
+N:\k\Real Intern\Belajar\1. .NET\4FundamentalCSharpAgain\Login\Login\bin\Debug\netcoreapp3.1\BCrypt.Net-Core.dll
+N:\k\Real Intern\Belajar\1. .NET\4FundamentalCSharpAgain\Login\Login\obj\Debug\netcoreapp3.1\Login.csproj.CopyComplete
